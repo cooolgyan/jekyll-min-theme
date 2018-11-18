@@ -1,0 +1,21 @@
+title: Your title
+author: Website User
+email: your-email@domain.com
+description: "Write an awesome description for your new site here."
+
+# social links
+twitter_username: jekyllrb
+github_username:  jekyll
+# facebook_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+# youtube_channel_name: CloudCannon
+# telegram_username: jekyll
+# googleplus_username: +jekyll
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
